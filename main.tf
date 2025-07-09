@@ -10,3 +10,8 @@ resource "azurerm_resource_group" "resource_grp1" {
   
 }
 
+resource "azurerm_resource_group" "resource_grp6" {
+    name     = "ashu-rg6"
+    location = "West US"
+  
+}
