@@ -11,33 +11,6 @@ resource "azurerm_resource_group" "resource_grp1" {
 
 
 
-resource "azurerm_resource_group" "resource_grp2" {     
-    name     = "ashu-rg2"
-    location = "West US"
-  
-}
-
-resource "azurerm_resource_group" "resource_grp3" {     
-    name     = "ashu-rg3"
-    location = "West US"
-  
-}
 
 
-resource "azurerm_resource_group" "resource_grp2" {     
-    name     = "ashu-rg2"
-    location = "West US"
-  
-}
 
-resource "azurerm_resource_group" "resource_grp3" {     
-    name     = "ashu-rg3"
-    location = "West US"
-  
-}
-
-resource "azurerm_resource_group" "resource_grp4" {     
-    name     = "ashu-rg4"
-    location = "West US"
-  
-}
